@@ -5,3 +5,13 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: fivethirtyeight
+Version: 0.5.0.9000
+Depends: R (>= 3.2.4)
+Suggests: ggplot2, dplyr, tidyr, curl, readr, tibble, lubridate, stringr, janitor, knitr,
+          gridExtra, ggthemes, scales, broom, magrittr, rmarkdown, slam (>= 0.1-42),
+          highcharter (>= 0.7), tidytext, textdata, hunspell, fmsb, wordcloud, corrplot,
+          ggraph, igraph
+License: MIT + file LICENSE
+MD5sum: d1448a0dea7829282c6ba62624e11622
+NeedsCompilation: no
