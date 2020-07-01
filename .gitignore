@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 testpackages/
-*.tar.gz
+.DS_Store
+.Rproj.user*
