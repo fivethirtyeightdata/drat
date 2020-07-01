@@ -1,26 +1,7 @@
-Package: drat
-Version: 0.0.4
-Suggests: git2r, knitr
-License: GPL (>= 2)
-MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
-NeedsCompilation: no
-
-Package: fivethirtyeight
-Version: 0.5.0.9000
-Depends: R (>= 3.2.4)
-Suggests: ggplot2, dplyr, tidyr, curl, readr, tibble,
-      lubridate, stringr, janitor, knitr, gridExtra,
-      ggthemes, scales, broom, magrittr, rmarkdown, slam
-      (>= 0.1-42), highcharter (>= 0.7), tidytext,
-      textdata, hunspell, fmsb, wordcloud, corrplot,
-      ggraph, igraph
-License: MIT + file LICENSE
-MD5sum: d1448a0dea7829282c6ba62624e11622
-NeedsCompilation: no
-
 Package: fivethirtyeightdata.test
 Version: 0.0.0.9000
 Depends: R (>= 2.10)
 Suggests: testthat
-MD5sum: 42918bb9e33024db462fef0102ae6be0
+License: MIT + file LICENSE
+MD5sum: b523e3b4f3d26fc180005019ad1ee56e
 NeedsCompilation: no
