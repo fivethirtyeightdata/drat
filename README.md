@@ -1,4 +1,4 @@
-The GitHub repository is a drat repository hosting the `fivethirtyeightdata.test` package, that is unable to be hosted on CRAN due to its large size. It is meant to be used along with `fivethirtyeight` package for the full suite of datasets.
+The GitHub repository is a drat repository hosting the `fivethirtyeightdata` package, that is unable to be hosted on CRAN due to its large size. It is meant to be used along with `fivethirtyeight` package for the full suite of datasets.
 
 ## More about drat
 
