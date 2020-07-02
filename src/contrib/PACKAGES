@@ -1,3 +1,11 @@
+Package: fivethirtyeightdata
+Version: 0.0.0.9000
+Depends: R (>= 2.10)
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: a60cc3e8b88d6d54e0bda56092ab75fe
+NeedsCompilation: no
+
 Package: fivethirtyeightdata.test
 Version: 0.0.0.9000
 Depends: R (>= 2.10)
