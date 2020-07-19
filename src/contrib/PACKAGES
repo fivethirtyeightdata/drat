@@ -1,15 +1,9 @@
 Package: fivethirtyeightdata
 Version: 0.0.0.9000
 Depends: R (>= 2.10)
-Suggests: testthat
+Suggests: testthat, knitr, rmarkdown, broom, corrplot, dplyr, fivethirtyeight, fmsb, ggplot2,
+           ggraph, ggthemes, gridExtra, highcharter, hunspell, igraph, janitor, lubridate,
+           magrittr, readr, scales, stringr, textdata, tibble, tidyr, tidytext, wordcloud
 License: MIT + file LICENSE
-MD5sum: a60cc3e8b88d6d54e0bda56092ab75fe
-NeedsCompilation: no
-
-Package: fivethirtyeightdata.test
-Version: 0.0.0.9000
-Depends: R (>= 2.10)
-Suggests: testthat
-License: MIT + file LICENSE
-MD5sum: b523e3b4f3d26fc180005019ad1ee56e
+MD5sum: 706c2f03f1da0d0851c5058c7ac09848
 NeedsCompilation: no
