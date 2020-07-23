@@ -1,10 +1,10 @@
 Package: fivethirtyeightdata
 Version: 0.0.0.9000
 Depends: R (>= 3.2.4)
-Suggests: testthat, knitr, rmarkdown, broom, corrplot, dplyr, fivethirtyeight,
-         fmsb, ggplot2, ggraph, ggthemes, gridExtra, highcharter, hunspell,
-         igraph, janitor, lubridate, magrittr, readr, scales, stringr, textdata,
-         tibble, tidyr, tidytext, wordcloud
+Suggests: testthat, knitr, rmarkdown, broom, corrplot, dplyr, fivethirtyeight, fmsb,
+         ggplot2, ggraph, ggthemes, gridExtra, highcharter, hunspell, igraph, janitor,
+         lubridate, magrittr, readr, scales, stringr, textdata, tibble, tidyr,
+         tidytext, wordcloud
 License: MIT + file LICENSE
 MD5sum: f03cac0be94cbdb4746398c8c912f094
 NeedsCompilation: no
