@@ -8,3 +8,14 @@ Suggests: testthat, knitr, rmarkdown, broom, corrplot, dplyr, fivethirtyeight, f
 License: MIT + file LICENSE
 MD5sum: f03cac0be94cbdb4746398c8c912f094
 NeedsCompilation: no
+
+Package: fivethirtyeightdata
+Version: 0.1.0
+Depends: R (>= 3.2.4)
+Suggests: testthat, knitr, rmarkdown, broom, corrplot, dplyr, fivethirtyeight, fmsb,
+         ggplot2, ggraph, ggthemes, gridExtra, highcharter, hunspell, igraph, janitor,
+         lubridate, magrittr, readr, scales, stringr, textdata, tibble, tidyr,
+         tidytext, wordcloud
+License: MIT + file LICENSE
+MD5sum: 3a1749fb29eaf945dddfc5c0fcb06052
+NeedsCompilation: no
